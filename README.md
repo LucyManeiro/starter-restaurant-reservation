@@ -7,7 +7,7 @@ This application is a full-stack capstone project completed as part of Thinkful'
 
 This application allows a restaurant to manage reservations, including creating, editing, seating, and cancelling reservations. It provides the ability to find any reservation (regardless of the reservation status) by inputting the phone number associated with the reservation. 
 
-## Live application: 
+## Live application: https://starter-restaurant-reservation-frontend-5gpyiblon-lucymaneiro.vercel.app
 
 A live version of this project can be viewed at ...
 The project was created using the following technologies: 
